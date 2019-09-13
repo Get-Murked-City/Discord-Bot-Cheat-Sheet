@@ -62,4 +62,7 @@ The Auto Voice Channels bot is an automated way for users to dynamically and inf
 * **template** - Change the name template for secondary channels. Default is ## [@@game_name@@]. Run vc/help template for a full list of usable variables.
 * **toggleposition** - Toggle whether new channels are placed above or below the primary one. Defaults to above.
 
+## Classic Bot
+
+ClassicBot was designed to enhance Classic World of Warcraft communities by allowing them to link directly to in game tooltips in their discord servers.  Currently the bot only allows you to use two different commands (**!classic item [item]** and **!classic spell [spell]**).  While limited, this could still be useful if you just want to see an item/spell or compare multiple items/spells.  You can find the unhelpful documentation for this bot at https://discordbots.org/bot/569926511298084885.
 
