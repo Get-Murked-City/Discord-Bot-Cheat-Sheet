@@ -9,5 +9,5 @@ Carl-Bot, also known as **Thrall**, is a discord bot that is employed on our dis
 
 For discord, any bot that is installed will have a set list of commands that can be used.  Thrall-bot commands all start with a prefix.  The Carl-bot default prefix is an exclamation mark (!), but I have configured Thrall-bot to use "**~**" as it's command prefix.  Below I've listed the commands that I find useful or fun.
 
-* **ignore *#<channel>* *#<channel>* ** - Ignores one or more channels.
+* **ignore _#<channel>_ _#<channel>_ ** - Ignores one or more channels.
 * 
