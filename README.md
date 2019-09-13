@@ -1,11 +1,11 @@
 # Discord Bot Cheat Sheet
 This repository is a cheat sheet for the bots enabled on the <Get Murked City> discord server.  This does not contain all of the commands available, just the most useful ones.  For a more comprehensive list of commands and functions, you can check out the documentation for each bot.
 
-* [Thrall Bot](#thrall)
-* [Auto Voice Channels](#avc)
-* [Classic Bot](#classic_bot)
+* [Thrall Bot](#thrall-bot)
+* [Auto Voice Channels](#auto-voice-channels)
+* [Classic Bot](#classic-bot)
 
-## Thrall Bot {#thrall}
+## Thrall Bot
 
 You can find the Carl-Bot documentation at https://docs.carl.gg/.  You can also access the carl-bot dashboard from the drop down menu at the main website at https://carl.gg/.
  
@@ -56,7 +56,7 @@ For discord, any bot that is installed will have a set list of commands that can
 * **dog** - Post a cute image of a dog.
 * **avatar <@member>** - Shows a larger image of the avatar of a mentioned user.
 
-## Auto Voice Channels {#avc}
+## Auto Voice Channels
 
 The Auto Voice Channels bot is an automated way for users to dynamically and infinitely create voice channels as they need them, and automatically delete them as soon as they are no longer being used.  We currently have two of these voice channels (**+ PVP Group**, and **+PVE Group**).  This bot is fairly simple to understand so I won't post much here.  For more information please see the documentation at https://discordbots.org/bot/479393422705426432.  The prefix for these commands are **vc/**.
 
@@ -66,7 +66,7 @@ The Auto Voice Channels bot is an automated way for users to dynamically and inf
 * **template** - Change the name template for secondary channels. Default is ## [@@game_name@@]. Run vc/help template for a full list of usable variables.
 * **toggleposition** - Toggle whether new channels are placed above or below the primary one. Defaults to above.
 
-## Classic Bot {#classic_bot}
+## Classic Bot
 
 Classic Bot was designed to enhance Classic World of Warcraft communities by allowing them to link directly to in game tooltips in their discord servers.  Currently the bot only allows you to use two different commands (**!classic item [item]** and **!classic spell [spell]**).  While limited, this could still be useful if you just want to see an item/spell or compare multiple items/spells.  You can find the unhelpful documentation for this bot at https://discordbots.org/bot/569926511298084885.
 
