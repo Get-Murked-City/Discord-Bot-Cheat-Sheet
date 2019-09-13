@@ -39,7 +39,7 @@ For discord, any bot that is installed will have a set list of commands that can
 * **suggest [text]** - Creates a suggestion in the #feeback channel.
 * **remind [text]** - Reminds you of something after a certain amount of time. The input can be any direct date (e.g. YYYY-MM-DD) or a human readable offset. Examples: - "next thursday at 3pm do something funny" - "do the dishes tomorrow" - "in 3 days do the thing" - "2d unmute someone" Times are in UTC.
 * **poll [question]** - Creates a yes/no poll where you vote with reactions
-* **quickpoll [<question> \| <answer> \| <answer>]** - Use pipes ("|") or commas to separate the questions and answers. The first arg is the question, all after that are individual answers.
+* **quickpoll [<question> `| <answer> `| <answer>]** - Use pipes ("|") or commas to separate the questions and answers. The first arg is the question, all after that are individual answers.
 
 ### Fun 
 
